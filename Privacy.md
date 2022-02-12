@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective date: Feb 12, 2022
+> Effective date: Feb 12, 2022
 
 tete1030 ("us", "we", or "our") operates the Punc app mobile application (the "Service").
 
